@@ -33,6 +33,7 @@ print(cislo)
 
 
 # GITHUB PŘÍKAZ
+# ctrl + s pro uložení
 # git add *
 # git commit -m "..."
 # git push
